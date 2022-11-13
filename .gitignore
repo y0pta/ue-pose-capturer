@@ -1,0 +1,5 @@
+*idea*
+*.bak
+*images_*x*/*
+*depths_*x*/*
+*intrinsics*.txt
